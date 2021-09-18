@@ -22,3 +22,4 @@ I'm a 19 years old Brazilian, Data Sciente student looking for an intership.
  
   ![Snake animation](https://github.com/AlisonK2/AlisonK2/blob/output/github-contribution-grid-snake.svg)
 </div>
+
