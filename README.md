@@ -2,7 +2,7 @@
 I'm a 19 years old Brazilian, Data Sciente student looking for an intership.
 
 ##  GitHub Stats 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AlisonK2&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 <img align="right" alt="Alison-Gif" src="https://media.giphy.com/media/K3FGljVq68OsSthG9b/giphy.gif?cid=790b7611fd8b4f33ba2c824929b9105d1a15bef16a916f6e&rid=giphy.gif&ct=g">
 
 ##  Programming Languages
@@ -14,7 +14,7 @@ I'm a 19 years old Brazilian, Data Sciente student looking for an intership.
   <img align="center" alt="Alison-Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Alison-Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Alison-SQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Alison-SQL" height="70" width="70" src="http://intellitech.pro/wp-content/uploads/2016/12/hadoop-300x293.png">
+  <img align="center" alt="Alison-SQL" height="60" width="60" src="http://intellitech.pro/wp-content/uploads/2016/12/hadoop-300x293.png">
 </div>
   
 ## Contact me on
