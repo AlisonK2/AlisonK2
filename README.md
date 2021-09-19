@@ -2,7 +2,7 @@
 I'm a 19 years old Brazilian, Data Sciente student looking for an intership.
 
 ##  GitHub Stats 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlisonK2&theme=dark)](https://git.io/streak-stats)
 <img align="right" alt="Alison-Gif" src="https://media.giphy.com/media/K3FGljVq68OsSthG9b/giphy.gif?cid=790b7611fd8b4f33ba2c824929b9105d1a15bef16a916f6e&rid=giphy.gif&ct=g">
 
 ##  Programming Languages and Frameworks
