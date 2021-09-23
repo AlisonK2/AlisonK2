@@ -14,11 +14,16 @@ I'm a 19 years old Brazilian, Data Sciente student looking for an intership.
   <img align="center" alt="Alison-Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Alison-Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Alison-SQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" alt="Alison-SQL" height="60" width="60" src="http://intellitech.pro/wp-content/uploads/2016/12/hadoop-300x293.png">
-  <img align="center" alt="Alison-SQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Alison-SQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="Alison-VSCode" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Alison-SQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
 </div>
+
+##  Currenctly learining
+<p align="center">
+  <img align="center" alt="Alison-Hadoop" height="60" width="60" src="http://intellitech.pro/wp-content/uploads/2016/12/hadoop-300x293.png">
+  <img align="center" alt="Alison-Numpy" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
+  <img align="center" alt="Alison-SQL" height="50" width="80" src="https://user-images.githubusercontent.com/68068625/134507235-2b363bee-401f-4b35-a6e2-795ee3cd18e6.png">
+</div> 
   
 ## Contact me on
 <p align="center">
