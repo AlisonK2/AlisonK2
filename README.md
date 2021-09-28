@@ -13,7 +13,7 @@ I'm a 19 years old Brazilian, Data Sciente student looking for an intership.
   <img align="center" alt="Alison-C" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Alison-Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Alison-Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Alison-SQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" alt="Alison-SQL" height="50" width="50" src="https://user-images.githubusercontent.com/68068625/135146415-6d886dff-39bb-4776-bdbd-2787628a97e6.png">
   <img align="center" alt="Alison-VSCode" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
   <img align="center" alt="Alison-SQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
 </div>
@@ -34,5 +34,3 @@ I'm a 19 years old Brazilian, Data Sciente student looking for an intership.
  
   ![Snake animation](https://github.com/AlisonK2/AlisonK2/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-
