@@ -13,16 +13,17 @@ I'm a 19 years old Brazilian, Data Sciente student looking for an intership.
   <img align="center" alt="Alison-C" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Alison-Python" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Alison-Java" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Alison-Hadoop" height="60" width="60" src="http://intellitech.pro/wp-content/uploads/2016/12/hadoop-300x293.png">
+  <img align="center" alt="Alison-Numpy" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
   <img align="center" alt="Alison-SQL" height="50" width="50" src="https://user-images.githubusercontent.com/68068625/135146415-6d886dff-39bb-4776-bdbd-2787628a97e6.png">
   <img align="center" alt="Alison-VSCode" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="Alison-SQL" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
+  <img align="center" alt="Alison-Trello" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg"> 
 </div>
 
 ##  Currenctly learining
 <p align="center">
-  <img align="center" alt="Alison-Hadoop" height="60" width="60" src="http://intellitech.pro/wp-content/uploads/2016/12/hadoop-300x293.png">
-  <img align="center" alt="Alison-Numpy" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Alison-SQL" height="50" width="80" src="https://user-images.githubusercontent.com/68068625/134507235-2b363bee-401f-4b35-a6e2-795ee3cd18e6.png">
+  <img align="center" alt="Alison-Pyspark" height="50" width="80" src="https://user-images.githubusercontent.com/68068625/134507235-2b363bee-401f-4b35-a6e2-795ee3cd18e6.png">
+  <img align="center" alt="Alison-Pandas" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
 </div> 
   
 ## Contact me on
