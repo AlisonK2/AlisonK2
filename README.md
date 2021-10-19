@@ -8,6 +8,7 @@ I'm a 19 years old Brazilian, Data Sciente student looking for an intership.
 ##  Programming Languages and Frameworks
 <!--
 <div style="display: inline_block"><br>
+<img align="right" alt="Certificate" height="201" width="201" src="https://user-images.githubusercontent.com/68068625/137949835-d3603daa-2451-4de4-8aa9-3bbeb2753135.png">
 -->
 <p align="center">
   <img align="center" alt="Alison-C" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
