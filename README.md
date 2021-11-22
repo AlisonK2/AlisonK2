@@ -25,7 +25,6 @@ I'm a 19 years old Brazilian, Data Sciente student looking for an intership.
 <p align="center">
   <img align="center" alt="Alison-Pyspark" height="50" width="80" src="https://user-images.githubusercontent.com/68068625/134507235-2b363bee-401f-4b35-a6e2-795ee3cd18e6.png">
   <img align="center" alt="Alison-Pandas" height="50" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" alt="Alison-OCI" height="50" width="80" src="https://user-images.githubusercontent.com/68068625/138186921-badcd4b3-14f3-4815-84fe-59cd798f5724.png">
 </div> 
 
 ## Contact me on
