@@ -1,5 +1,5 @@
 ## Hello there! Welcome to my profile :)
-I'm a 19 years old Brazilian, Data Sciente student looking for an intership.
+I'm a 20 years old Brazilian, Data Sciente student looking for an intership.
 
 ##  GitHub Stats and Certification
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlisonK2&theme=dark)](https://git.io/streak-stats)
